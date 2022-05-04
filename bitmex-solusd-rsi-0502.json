@@ -1,11 +1,11 @@
 {
 	"BinSize": 15,
-	"BuyMinRSI": 25,
-	"BuyMaxRSI": 81,
-	"BuyCloseX": 0.0065,
-	"BuyStopX": 0.007,
+	"BuyMinRSI": 26,
+	"BuyMaxRSI": 50,
+	"BuyCloseX": 0.008,
+	"BuyStopX": 0.005,
 	"SellMinRSI": 13,
-	"SellMaxRSI": 74,
-	"SellCloseX": 0.01,
-	"SellStopX": 0.004
+	"SellMaxRSI": 63,
+	"SellCloseX": 0.0135,
+	"SellStopX": 0.0035
 }
