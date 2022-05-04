@@ -1,4 +1,5 @@
 {
+	"BinSize": 15,
 	"UpperMinRSI": 64,
 	"UpperMaxRSI": 81,
 	"UpperClose": 0.008,
