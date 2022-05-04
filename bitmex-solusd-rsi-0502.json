@@ -1,0 +1,10 @@
+{
+	"UpperMinRSI": 64,
+	"UpperMaxRSI": 81,
+	"UpperClose": 0.008,
+	"UpperStop": 0.011,
+	"LowerMinRSI": 10,
+	"LowerMaxRSI": 38,
+	"LowerClose": 0.011,
+	"LowerStop": 0.011
+}
