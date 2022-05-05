@@ -5,8 +5,8 @@
 	"BuyMaxRSI": 30,
 	"BuyCloseX": 0.008,
 	"BuyStopX": 0.024,
-	"SellMinRSI": 41,
+	"SellMinRSI": 40,
 	"SellMaxRSI": 48,
 	"SellCloseX": 0.019,
-	"SellStopX": 0.012
+	"SellStopX": 0.011
 }
