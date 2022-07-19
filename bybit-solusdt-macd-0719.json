@@ -1,5 +1,5 @@
 {
-  "bin_size": "4h",
+	"bin_size": 240,
 	"long_close": 0.06,
 	"long_stop": 0.06,
 	"short_close": 0.17,
