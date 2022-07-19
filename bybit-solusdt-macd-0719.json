@@ -1,0 +1,12 @@
+{
+  "bin_size": "4h",
+	"long_close": 0.06,
+	"long_stop": 0.06,
+	"short_close": 0.17,
+	"short_stop": 0.04,
+	"rsi_length": 6,
+	"rsi_long_open": 76,
+	"rsi_long_close": 90,
+	"rsi_short_open": 21,
+	"rsi_short_close": 10,
+}
