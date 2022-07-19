@@ -1,5 +1,8 @@
 {
 	"bin_size": 240,
+	"fast_periods": 12,
+	"slow_periods": 26,
+	"signal_periods": 9,
 	"long_close": 0.06,
 	"long_stop": 0.06,
 	"short_close": 0.17,
